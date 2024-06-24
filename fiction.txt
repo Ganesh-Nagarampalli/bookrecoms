@@ -1,10 +1,3 @@
-The Great Gatsby
-To Kill a Mockingbird
-1984
-Pride and Prejudice
-The Catcher in the Rye
-The Lord of the Rings
-The Hobbit
-Animal Farm
-Brave New World
-The Chronicles of Narnia
+Book Name,Owner,Contact,Location,Genre
+Atomic Habits,John Doe,123-456-7890,New York,Fiction
+Psychology of Money,Jane Doe,098-765-4321,Los Angeles,Non-Fiction
